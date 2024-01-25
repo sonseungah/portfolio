@@ -1,5 +1,6 @@
 # 손승아 포트폴리오
 > 고민하는 개발자
+> <br>
 > ![6](https://github.com/sonseungah/portfolio/assets/149472253/40f74b7d-d8fe-410e-adbe-7daf8c84eba3)
 </br>
 
