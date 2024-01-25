@@ -28,7 +28,7 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 2. [두 번째 프로젝트](https://github.com/2023-SMHRD-IS-AI1/HRGR.git)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2020.7.18 ~ 2020.11.5  
 >  
