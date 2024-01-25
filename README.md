@@ -1,5 +1,5 @@
-# 정형 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+# 손승아 포트폴리오
+> 고민하는 개발자
 2
 </br>
 
@@ -9,9 +9,9 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
-- 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 이메일: disket0882@gmail.com
+- 블로그: https://blog.naver.com/sdee153
+- 깃헙: https://github.com/sonseungah
 
 </br>
 
