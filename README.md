@@ -1,7 +1,7 @@
 # 코드 속 오류를 찾아내는 걸 즐기는 백엔드 개발자 손승아 입니다.
 
 ## :pushpin: Intro
-(자기소개적기)
+안녕하세요 저는 손승아라고 합니다. 저는 끊임없는 학습과 발전을 추구하고, 서버 개발이라는 복잡한 영역에 흥미를 가지고 있습니다. 깔끔하면서도 안정된 코드를 이용한 개발을 지향하고, 높은 수준의 개발자가 되기 위해 노력하고 있습니다.
 
 </br>
 
@@ -32,6 +32,7 @@
 >  
 >기술 스택:  
 >Java 1.8 / Spring Framework / MyBatis
+>
 >MySQL / HTML / CSS 
 >  
 
@@ -44,6 +45,7 @@
 >개발 기간: 2024.02.15 ~ 2024.04.15
 >  
 >기술 스택:  
->Java 17 / Spring Boot / Gradle / Spring Data JPA 
+>Java 17 / Spring Boot / Gradle / Spring Data JPA
+>
 >MySQL / Spring Security / React / Node.js / AWS 
 >
