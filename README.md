@@ -33,24 +33,24 @@
 
 - BackEnd
   
- --상--
+기술 상
   
 <img src="https://img.shields.io/badge/Node.js-yellow?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Spring Framework-green?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-00CCCC?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=apache&logoColor=white">
 
 - Data
 
---상--
+기술 상
   
   <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=mysql&logoColor=white"> 
 
   
- --중--
+기술 중
 
 <img src="https://img.shields.io/badge/MongoDB-33CC33?style=for-the-badge&logo=mongodb&logoColor=white">
  
 - DevOps
 
---상--
+기술 상
 
 <img src="https://img.shields.io/badge/AWS-CC9933?style=for-the-badge&logo=amazon&logoColor=white">
 
@@ -114,3 +114,6 @@
 ## :pushpin: 공모전 참여내역
 
 AI 융합 콘텐츠 공모전(AI+콘텐츠 아이디어 부문) 참여 - 2023.11.3
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonseungah&langs_count=8)](https://github.com/sonseungah/github-readme-stats)
+
