@@ -29,7 +29,9 @@
 - Spring Boot(Gradle, Maven)
 - Python
 
-- AWS
+###DevOps
+
+- AWS를 활용한 서버 배포
 
 
 ## :pushpin: Projects
