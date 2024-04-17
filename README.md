@@ -35,7 +35,7 @@
   
  --상--
   
-<img src="https://img.shields.io/badge/Node.js-yellow?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Spring Framework-green?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-66FF66?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=apache&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-yellow?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Spring Framework-green?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-00CCCC?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=apache&logoColor=white">
 
 - Data
 
@@ -50,6 +50,8 @@
  
 - DevOps
 
+--상--
+
 <img src="https://img.shields.io/badge/AWS-CC9933?style=for-the-badge&logo=amazon&logoColor=white">
 
 ---
@@ -59,39 +61,47 @@
 - 적극적이고 대화를 두려워하지 않습니다.
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://adorable-society-1a9.notion.site/788ba4d2221344fab5d400f5c440e827?pvs=4)
->미니 프로젝트 - 멜론 TOP100 차트 크롤링 및 관련 내용 시각화
->
->개발 기간: 2023.10.01 ~ 2023.11.05  
->  
->기술 스택:  
->Python  
->HTML / CSS / Bootstrap
->
 
----
-
-### 2. [두 번째 프로젝트](https://github.com/2023-SMHRD-IS-AI1/HRGR.git)
->핵심프로젝트 - 간편한 UI/UX를 이용한 농수산물 전자상거래 C2C 서비스
+### 1. [실전프로젝트](https://github.com/Project-TokTalk/backend.git)
+>LLM과 번역API를 이용한 공공기관 외국어 챗봇 서비스
 >
->개발 기간: 2023.12.15 ~ 2024.1.24  
->  
->기술 스택:  
->Java 1.8 / Spring Framework / MyBatis
->
->MySQL / HTML / CSS 
->  
-
-
----
-
-### 3. [세 번째 프로젝트](https://github.com/Project-TokTalk/backend.git)
->실전프로젝트 - LLM과 번역API를 이용한 공공기관 외국어 챗봇 서비스
->
->개발 기간: 2024.02.15 ~ 2024.04.15
+>개발 기간: 2024.03.15 ~ 2024.04.15
 >  
 >기술 스택:  
 >Java 17 / Spring Boot / Gradle / Spring Data JPA
 >
->MySQL / Spring Security / React / Node.js / AWS 
+>MySQL / Spring Security / React / Node.js / AWS
 >
+>맡은 역할 : 프로젝트 매니저, Spring Boot와 Spring Security를 활용한 로그인 및 회원가입, 관리자 대시보드 그래프 백엔드 구현, AWS 활용한 서버 배포
+>
+>
+---
+
+### 2. [핵심프로젝트](https://github.com/2023-SMHRD-IS-AI1/HRGR.git)
+>간편한 UI/UX를 이용한 농수산물 전자상거래 C2C 서비스
+>
+>개발 기간: 2023.1.9 ~ 2024.1.24  
+>  
+>기술 스택:  
+>Java 1.8 / Spring Framework / MyBatis
+>
+>MySQL / HTML / CSS
+>
+>맡은 역할 : Bootstrap 활용한 프론트엔드 구현, Spring Framework 활용한 메인페이지 기능구현
+
+
+---
+
+
+### 3. [미니프로젝트](https://adorable-society-1a9.notion.site/788ba4d2221344fab5d400f5c440e827?pvs=4)
+>멜론 TOP100 차트 크롤링 및 관련 내용 시각화
+>
+>개발 기간: 2023.10.01 ~ 2023.11.05  
+>  
+>기술 스택:  
+>Python
+>
+>HTML / CSS / Bootstrap
+>
+>맡은 역할 : 프로젝트 매니저, Python 활용한 멜론 차트 Top100 크롤링 및 내용 시각화
+
