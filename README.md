@@ -29,6 +29,8 @@
 - Spring Boot(Gradle, Maven)
 - Python
 
+- AWS
+
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://adorable-society-1a9.notion.site/788ba4d2221344fab5d400f5c440e827?pvs=4)
