@@ -26,7 +26,7 @@
 ### BackEnd
 - Node.js (Express)
 - Spring Framework
-- Spring Boot
+- Spring Boot(Gradle, Maven)
 - Python
 
 
