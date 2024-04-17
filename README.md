@@ -117,3 +117,5 @@ AI 융합 콘텐츠 공모전(AI+콘텐츠 아이디어 부문) 참여 - 2023.11
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonseungah&langs_count=8)](https://github.com/sonseungah/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonseungah)](https://github.com/anuraghazra/github-readme-stats)
+
