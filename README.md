@@ -107,6 +107,18 @@
 >
 >맡은 역할 : 프로젝트 매니저, Python 활용한 멜론 차트 Top100 크롤링 및 내용 시각화
 
+### 4. [개인프로젝트](https://github.com/sonseungah/communication.git)
+>Claude AI를 이용한 소설 제작 채팅 
+>
+>개발 기간: 2026.04.02~현재 유지보수 및 고도화 진행 중
+>  
+>기술 스택:  
+>JavaScript
+>
+>HTML / CSS / TypeScript
+>
+>상황이나 대사를 입력하면 자동으로 이야기를 만들어주며 이후에 채팅하듯 이야기를 이어서 생성할 수 있는 웹 채팅 프로그램 구현
+
 ### 프로그래머스 코드 정리
 > [Git repository](https://github.com/sonseungah/portfolio.git)
 ## 📌 Education
