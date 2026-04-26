@@ -33,18 +33,10 @@
 ---
 
 2. 기술
-
-- BackEnd
   
 기술 상
   
-<img src="https://img.shields.io/badge/Node.js-yellow?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Spring Framework-green?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-00CCCC?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=apache&logoColor=white">
-
-- Data
-
-기술 상
-  
-  <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/Openstack-red?style=for-the-badge&logo=Openstack&logoColor=white"> <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-yellow?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-00CCCC?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=mysql&logoColor=white"> 
 
   
 기술 중
@@ -55,7 +47,7 @@
 
 기술 상
 
-<img src="https://img.shields.io/badge/AWS-CC9933?style=for-the-badge&logo=amazon&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-CC9933?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=Google&logoColor=black">
 
 ---
 
