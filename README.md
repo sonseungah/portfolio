@@ -14,7 +14,6 @@
   
 제 목표는 풀스택 개발자로 성장하여 프론트부터 기획까지 경험하는 것입니다. 개발 뿐 아니라 소통도 중요하게 생각하며, 열린 대화를 통해 문제를 해결하고 업무를 최선으로 수행하고자 합니다.
 
-![전자서명](https://github.com/sonseungah/portfolio/blob/main/donue_signature.png)
 </br>
 
 ## :pushpin: Contact
@@ -29,6 +28,7 @@
 1. 지식
 
 - Spring Boot, Node.js를 활용한 백엔드 개발에 대한 지식이 높고 MySQL을 활용한 DB구축에 능합니다. 또한 AWS를 활용한 서버 배포에도 능숙합니다.
+- 클라우드에 대한 이해도가 높고 Linux 환경에 익숙해 개발 및 배포 환경 적응에 능합니다.
 
 ---
 
