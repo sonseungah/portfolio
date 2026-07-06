@@ -120,7 +120,7 @@
 
 ---
 
-### 5. [개인프로젝트]([https://github.com/sonseungah/dashboard])
+### 5. [개인프로젝트]([https://github.com/sonseungah/dashboard.git])
 > 오프라인에서도 사용 가능한 PC 모니터링 대시보드
 >
 >개발 기간: 2026.06.29~현재 유지보수 및 고도화 진행 중
@@ -134,7 +134,7 @@
 
 ---
 
-### 5. [개인프로젝트]([https://github.com/sonseungah/diary])
+### 6. [개인프로젝트]([https://github.com/sonseungah/diary.git])
 > 매일의 기분과 하루를 기록하는 무드 다이어리 앱
 >
 >개발 기간: 2026.07.05~현재 유지보수 및 고도화 진행 중
